@@ -1,0 +1,62 @@
+# Hi, I'm Eric 👋
+
+**AWS | Cloud Engineering | Infrastructure**
+20+ years building practical, scalable, hybrid cloud solutions.
+
+I'm the founder of **[Digital Culture IT Solutions](https://digitalcultureit.com)**, an IT consulting firm serving the NYC metro area from Bergen County, NJ.
+
+🏅 AWS Certified Solutions Architect – Associate
+🌐 [digitalcultureit.com](https://digitalcultureit.com)
+
+---
+
+## What I work with
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![NetApp](https://img.shields.io/badge/NetApp_ONTAP-0067C5?style=for-the-badge&logo=netapp&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+## Featured projects
+
+| Project | What it is |
+|---|---|
+| [s3-browser](https://github.com/estarobi50/s3-browser) | Private web UI for an S3 bucket using the Amplify UI Storage Browser, Cognito sign-in and a scoped IAM role |
+| [jeanie-ai-denim-fit-finder](https://github.com/estarobi50/jeanie-ai-denim-fit-finder) | AI-powered body-shape and denim fit analyzer on AWS serverless infrastructure |
+| [digitalculture-design-projects](https://github.com/estarobi50/digitalculture-design-projects) | Showcase of web design projects |
+| [digitalculture-site](https://github.com/estarobi50/digitalculture-site) | The Digital Culture IT Solutions website |
+
+---
+
+## AWS labs
+
+Hands-on builds, each documented step by step. Browse them all with the [`aws-labs`](https://github.com/topics/aws-labs?q=user%3Aestarobi50) topic.
+
+**Networking and compute**
+- [AWS-Custom-VPC-Build](https://github.com/estarobi50/AWS-Custom-VPC-Build): custom VPC with internet gateway, subnets and route tables
+- [AWS-Custom-VPC-EFS-Infrastructure-Lab](https://github.com/estarobi50/AWS-Custom-VPC-EFS-Infrastructure-Lab): VPC, EC2, Systems Manager and shared EFS storage
+- [EC2-SSM](https://github.com/estarobi50/EC2-SSM): private EC2 instance reachable through Systems Manager
+- [Create-AWS-account-for-production-](https://github.com/estarobi50/Create-AWS-account-for-production-): building out a new production AWS account
+
+**Load balancing and scaling**
+- [Setting-up-an-application-load-balancer-ALB-](https://github.com/estarobi50/Setting-up-an-application-load-balancer-ALB-): Application Load Balancer deployment
+- [AWS-Auto-Scaling-Group-Application-Load-Balancer-ALB-](https://github.com/estarobi50/AWS-Auto-Scaling-Group-Application-Load-Balancer-ALB-): Auto Scaling Group and ALB with a golden AMI
+
+**Web hosting and DNS**
+- [secure-s3-cloudfront-site](https://github.com/estarobi50/secure-s3-cloudfront-site): static site on S3 behind CloudFront
+- [setup-www-CNAME-and-new-ACM-cert](https://github.com/estarobi50/setup-www-CNAME-and-new-ACM-cert): www CNAME and a new ACM certificate
+
+**VMware Cloud on AWS**
+- [Deploying-vmware-sddc-to-aws](https://github.com/estarobi50/Deploying-vmware-sddc-to-aws): two-SDDC VMware Cloud on AWS deployment
+- [fsx-ontap-nfs-datastore-vmware-cloud](https://github.com/estarobi50/fsx-ontap-nfs-datastore-vmware-cloud): Amazon FSx for NetApp ONTAP NFS volume as a supplemental datastore
+
+---
+
+## Get in touch
+
+📧 [DigitalCultureits@gmail.com](mailto:DigitalCultureits@gmail.com)
+🌐 [digitalcultureit.com](https://digitalcultureit.com)

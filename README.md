@@ -3,7 +3,7 @@
 **AWS | Cloud Engineering | Infrastructure**
 20+ years building practical, scalable, hybrid cloud solutions.
 
-I'm the founder of **[Digital Culture IT Solutions](https://digitalcultureit.com)**, an IT consulting firm serving the NYC metro area from Bergen County, NJ.
+I'm the founder of **[Digital Culture IT Solutions](https://digitalcultureit.com)**, an IT consulting firm.
 
 🏅 AWS Certified Solutions Architect – Associate
 🌐 [digitalcultureit.com](https://digitalcultureit.com)

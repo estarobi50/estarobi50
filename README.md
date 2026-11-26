@@ -30,6 +30,8 @@ I'm the founder of **[Digital Culture IT Solutions](https://digitalcultureit.com
 | [digitalculture-design-projects](https://github.com/estarobi50/digitalculture-design-projects) | Showcase of web design projects |
 | [digitalculture-site](https://github.com/estarobi50/digitalculture-site) | The Digital Culture IT Solutions website |
 
+> 🔒 Some client projects are kept in private repositories to protect client privacy. I'm happy to walk through them upon request.
+
 ---
 
 ## AWS labs

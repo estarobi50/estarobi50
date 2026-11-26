@@ -36,9 +36,9 @@ I'm the founder of **[Digital Culture IT Solutions](https://digitalcultureit.com
 
 ---
 
-## AWS labs
+## Real-world projects
 
-Hands-on builds, each documented step by step. Browse them all with the [`aws-labs`](https://github.com/topics/aws-labs?q=user%3Aestarobi50) topic.
+Hands-on infrastructure builds, each documented step by step. Browse them all with the [`aws-labs`](https://github.com/topics/aws-labs?q=user%3Aestarobi50) topic.
 
 **Networking and compute**
 - [AWS-Custom-VPC-Build](https://github.com/estarobi50/AWS-Custom-VPC-Build): custom VPC with internet gateway, subnets and route tables

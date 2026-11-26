@@ -1,4 +1,4 @@
-# Hi, I'm Eric 👋
+# Hi, I'm Eric 👋 ☁️ 💻
 
 **AWS | Cloud Engineering | Infrastructure**
 20+ years building practical, scalable, hybrid cloud solutions.

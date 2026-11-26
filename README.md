@@ -5,7 +5,7 @@
 
 I'm the founder of **[Digital Culture IT Solutions](https://digitalcultureit.com)**, an IT consulting firm.
 
-🏅 AWS Certified Solutions Architect – Associate
+🏅 [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/d6cf74ac-b8e8-4552-b395-e62c33520891/linked_in?t=tbw3d1)
 🌐 [digitalcultureit.com](https://digitalcultureit.com)
 
 ---

@@ -26,7 +26,7 @@ I'm the founder of **[Digital Culture IT Solutions](https://digitalcultureit.com
 | Project | What it is |
 |---|---|
 | [s3-browser](https://github.com/estarobi50/s3-browser) | Private web UI for an S3 bucket using the Amplify UI Storage Browser, Cognito sign-in and a scoped IAM role |
-| [jeanie-ai-denim-fit-finder](https://github.com/estarobi50/jeanie-ai-denim-fit-finder) | AI-powered body-shape and denim fit analyzer on AWS serverless infrastructure |
+| [jeanie-ai-denim-fit-finder](https://github.com/estarobi50/jeanie-ai-denim-fit-finder) 🔒 | AI-powered body-shape and denim fit analyzer on AWS serverless infrastructure |
 | [digitalculture-design-projects](https://github.com/estarobi50/digitalculture-design-projects) | Showcase of web design projects |
 | [digitalculture-site](https://github.com/estarobi50/digitalculture-site) | The Digital Culture IT Solutions website |
 | [anchorage-management](https://github.com/estarobi50/anchorage-management) 🔒 | Custom WordPress website for Anchorage Management LLC on GoDaddy, with inquiry-form email delivery through Proofpoint and Microsoft 365 (private client repo, available upon request) |

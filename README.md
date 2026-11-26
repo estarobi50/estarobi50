@@ -30,6 +30,7 @@ I'm the founder of **[Digital Culture IT Solutions](https://digitalcultureit.com
 | [digitalculture-design-projects](https://github.com/estarobi50/digitalculture-design-projects) | Showcase of web design projects |
 | [digitalculture-site](https://github.com/estarobi50/digitalculture-site) | The Digital Culture IT Solutions website |
 | [anchorage-management](https://github.com/estarobi50/anchorage-management) 🔒 | Custom WordPress website for Anchorage Management LLC on GoDaddy, with inquiry-form email delivery through Proofpoint and Microsoft 365 (private client repo, available upon request) |
+| [betson-used-inventory-manager](https://github.com/estarobi50/betson-used-inventory-manager) 🔒 | Excel and VBA solution that keeps warehouse notes attached to the right used-game record when an inventory report refreshes (private client repo, available upon request) |
 
 > 🔒 Some client projects are kept in private repositories to protect client privacy. I'm happy to walk through them upon request.
 

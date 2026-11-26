@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Eric Starobinsky, Solutions Architect" width="337">
+</p>
+
 # Hi, I'm Eric 👋
 
 **AWS | Cloud Engineering | Infrastructure**

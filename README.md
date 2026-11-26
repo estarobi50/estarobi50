@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Eric Starobinsky, Solutions Architect" width="337">
+  <img src="assets/banner.png" alt="Digital Culture IT Solutions: Eric Starobinsky, Solutions Architect" width="100%">
 </p>
 
 # Hi, I'm Eric 👋

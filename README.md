@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Digital Culture IT Solutions: Eric Starobinsky, Solutions Architect" width="100%">
-</p>
-
 # Hi, I'm Eric 👋
 
 **AWS | Cloud Engineering | Infrastructure**
